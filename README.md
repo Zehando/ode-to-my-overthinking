@@ -6,7 +6,7 @@ This repository is a tribute to the beautiful, winding, and sometimes delightful
 
 Currently, this repository features:
 
-* **`pi_decimal_selector.py`**: A script that generates a list of random numbers and then, using the decimal places of Pi ($\pi$) as an arbitrarily complex selection criterion, chooses elements from that list. Because why use `random.choice()` when you can consult mathematical constants?
+* **`Sampling_with_pi_decimal_selector.ipynb`**: A script that generates a list of random numbers and then, using the decimal places of Pi ($\pi$) as an arbitrarily complex selection criterion, chooses elements from that list. Because why use `random.choice()` when you can consult mathematical constants?
 
 ---
 
